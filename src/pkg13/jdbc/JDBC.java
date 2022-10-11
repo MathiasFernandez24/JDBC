@@ -30,6 +30,6 @@ public class JDBC {
 //        fSv.ingresarFabricanteEnDB(f1);
 
 //        pSv.modificarPrecioProducto(p1);
-        pSv.modificarDatosProducto();
+//        pSv.modificarDatosProducto();
     }
 }
